@@ -1,5 +1,7 @@
 # NGINX on Red Hat Universal Base Image (UBI)
 
+[![Docker Repository on Quay](https://quay.io/repository/fitraalim/ubi-nginx/status "Docker Repository on Quay")](https://quay.io/repository/fitraalim/ubi-nginx)
+
 ## Features
 
 - Using Red Hat Universal Base Image (UBI) Minimal from registry.access.redhat.com
