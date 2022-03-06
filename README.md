@@ -1,7 +1,5 @@
 # NGINX on Red Hat Universal Base Image (UBI)
 
-![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/fitraalim/ubi-nginx?style=for-the-badge) ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/fitraalim/ubi-nginx?style=for-the-badge) ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/fitraalim/ubi-nginx/latest?style=for-the-badge) ![Docker Pulls](https://img.shields.io/docker/pulls/fitraalim/ubi-nginx?style=for-the-badge)
-
 ## Features
 
 - Using Red Hat Universal Base Image (UBI) Minimal from registry.access.redhat.com
